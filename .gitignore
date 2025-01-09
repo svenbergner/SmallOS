@@ -50,3 +50,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Suggestions from Operating System in 1000 lines tutorial
+/disk/*
+!/disk/.gitkeep
+*.tar
+*.bin
+*.log
+*.pcap
